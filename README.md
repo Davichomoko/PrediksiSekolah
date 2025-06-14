@@ -26,7 +26,6 @@ Proyek ini merupakan aplikasi berbasis **Machine Learning** yang digunakan untuk
 ## 📊 Dataset
 
 - Sumber data dari **Excel** buatan sendiri, berdasarkan data resmi PPDB SMA Jakarta tahun **2023 dan 2024**.
-- Kolom penting: Nama Sekolah, Nilai Ambang Batas, Tahun, dan Jumlah Kuota.
-
+- Kolom penting: Nama Sekolah, Nilai Ambang Batas,dan Tahun
 ---
 
